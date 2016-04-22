@@ -1,2 +1,2 @@
 # Pencroft
-Pencroftis a Node.js content management system and web app framework built on express and mongoose.
+Pencroft is a Node.js content management system and web app framework built on express and mongoose.
